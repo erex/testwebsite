@@ -15,8 +15,9 @@ More challengingly, I will link to another [page on this site].
 #### Regular html used to insert image with adjusted size
 <img src=3607_a2.png height=400 width=300>
 
+I am going to ramble a bit because I simply need text filler to live around the edges of the image I have just tried to insert that follows this banal text.  OK Dave, you can read this now if you have finished getting ready for the St. Andrews gala dinner.
 
-Even more bravely, I would link to an ![image][image] (if I had any).
+Even more bravely, I would link to an <img src=2-17-20141.jpg height=500 width=400 align=right> (if I had any).
 
 My last trick is a ![video clip][testvideo]
 

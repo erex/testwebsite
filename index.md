@@ -12,6 +12,10 @@ I will link to [distance sampling] for demonstration purposes.
 
 More challengingly, I will link to another [page on this site].
 
+#### Regular html used to insert image with adjusted size
+<img src=3607_a2.png height=400 width=300>
+
+
 Even more bravely, I would link to an ![image][image] (if I had any).
 
 My last trick is a ![video clip][testvideo]

@@ -14,8 +14,10 @@ More challengingly, I will link to another [page on this site].
 
 Even more bravely, I would link to an ![image][image] (if I had any).
 
+My last trick is a ![video clip][testvideo]
 
 
 [distance sampling]: http://distancesampling.org
 [page on this site]: page2.md
-![image]: image.png
+[image]: 2-17-20141.jpg
+[testvideo]: CT1-Q1c.mp4

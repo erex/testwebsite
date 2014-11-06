@@ -12,7 +12,7 @@ I will link to [distance sampling] for demonstration purposes.
 
 More challengingly, I will link to another [page on this site].
 
-Even more bravely, I would link to an [image] (if I had any).
+Even more bravely, I would link to an ![image][image] (if I had any).
 
 
 
